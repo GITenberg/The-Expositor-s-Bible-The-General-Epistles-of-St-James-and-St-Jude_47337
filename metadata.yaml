@@ -1,0 +1,35 @@
+_repo: The-Expositor-s-Bible-The-General-Epistles-of-St-James-and-St-Jude_47337
+contributor:
+  creator:
+    editor:
+      agent_name: Nicoll, W. Robertson (William Robertson), Sir
+      aliases:
+      - Wace, Walter E.
+      - Clear, Claudius
+      - Nicoll, William Robertson, Sir
+      birthdate: 1851
+      deathdate: 1923
+      gutenberg_agent_id: '36133'
+      url: http://www.gutenberg.org/2009/agents/36133
+creator:
+  author:
+    agent_name: Plummer, Alfred
+    birthdate: 1841
+    deathdate: 1926
+    gutenberg_agent_id: '40122'
+    url: http://www.gutenberg.org/2009/agents/40122
+description: ''
+gutenberg_issued: '2014-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Jude -- Commentaries'
+- !lcsh 'Bible. James -- Commentaries'
+title: 'The Expositor''s Bible: The General Epistles of St. James and St. Jude'
+url: http://www.gutenberg.org/ebooks/47337
