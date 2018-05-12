@@ -1,4 +1,5 @@
 _repo: The-Expositor-s-Bible-The-General-Epistles-of-St-James-and-St-Jude_47337
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -11,6 +12,9 @@ contributor:
       deathdate: 1923
       gutenberg_agent_id: '36133'
       url: http://www.gutenberg.org/2009/agents/36133
+covers:
+- cover_type: archival
+  image_path: 47337-h/images/cover.jpg
 creator:
   author:
     agent_name: Plummer, Alfred
@@ -19,6 +23,8 @@ creator:
     gutenberg_agent_id: '40122'
     url: http://www.gutenberg.org/2009/agents/40122
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47337#The-Expositor-s-Bible-The-General-Epistles-of-St-James-and-St-Jude
 gutenberg_issued: '2014-11-12'
 gutenberg_type: Text
 identifiers:
